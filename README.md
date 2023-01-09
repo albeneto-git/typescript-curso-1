@@ -11,3 +11,7 @@ Prática da liguagem Typescript
 * Node
 * Vscode
 * Typescript
+
+## Para executar a app:
+
+npm run start
