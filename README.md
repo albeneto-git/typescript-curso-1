@@ -15,3 +15,10 @@ Prática da liguagem Typescript
 ## Para executar a app:
 
 npm run start
+
+## Para executar o servidor-api:
+
+Ir para a pasta servidor-api, executar:
+
+* npm install
+* npm start
